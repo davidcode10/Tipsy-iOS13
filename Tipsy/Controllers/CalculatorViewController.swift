@@ -21,7 +21,7 @@ class CalculatorViewController: UIViewController {
     var totalbill = 0.0
     var finalResult = 0.0
     var tipSelected = "10%"
-    var inTheParty = "0"
+    var inTheParty = "2"
     
     @IBAction func tipChanged(_ sender: UIButton) {
         
